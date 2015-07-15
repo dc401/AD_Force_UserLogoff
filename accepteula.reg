@@ -1,0 +1,12 @@
+REGEDIT4
+[HKEY_CURRENT_USER\Software\Sysinternals]
+[HKEY_CURRENT_USER\Software\Sysinternals\PsShutdown]
+"EulaAccepted"=dword:00000001
+[HKEY_CURRENT_USER\Software\Sysinternals\PsLoggedOn]
+"EulaAccepted"=dword:00000001
+[HKEY_CURRENT_USER\Software\Sysinternals\LoggedOn]
+"EulaAccepted"=dword:00000001
+[HKEY_CURRENT_USER\Software\Sysinternals\Regmon]
+"EulaAccepted"=dword:00000001
+[HKEY_CURRENT_USER\Software\Sysinternals\C]
+"EulaAccepted"=dword:00000001
